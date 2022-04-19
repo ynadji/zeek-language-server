@@ -22,7 +22,7 @@ package-install`. The required packages are:
 use-package
 lsp-mode
 lsp-ui
-company-mode
+company
 yasnippet
 ```
 
